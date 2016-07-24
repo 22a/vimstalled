@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Vimstalled",
+  "version": "0.1",
+
+  "description": "Indicates when a git repo is installed in your vimrc",
+
+  "author": "Peter Meehan",
+  "homepage_url": "https://github.com/22a/Vimstalled",
+  "options_page": "options.html",
+  "permissions": ["tabs"],
+  "short_name": "Vimstalled"
+}
