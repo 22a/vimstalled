@@ -1,0 +1,11 @@
+.vimstalled-badge{
+  float: left;
+  background-color: #4078c0;
+  color: white;
+  padding: 1px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-left: 10px;
+  margin-top: 1px;
+  border-radius: 2px;
+}
