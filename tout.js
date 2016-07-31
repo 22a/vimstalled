@@ -13,3 +13,5 @@ chrome.runtime.sendMessage({path: window.location.pathname, action: "queryPlugin
     setInstalled();
   }
 });
+
+// TODO: some beforeunload skullduggery to detect soft redirects
